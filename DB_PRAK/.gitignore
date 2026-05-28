@@ -1,0 +1,25 @@
+# Build output
+build/
+bin/
+obj/
+*.exe
+*.out
+*.o
+
+# IDE
+.vs/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Slapti duomenys
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
